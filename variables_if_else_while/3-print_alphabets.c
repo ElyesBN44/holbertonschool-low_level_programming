@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main -
+ * main - aaa.
  *
  * Return: Always 0.
  */
