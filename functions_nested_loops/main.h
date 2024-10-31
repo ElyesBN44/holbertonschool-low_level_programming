@@ -2,6 +2,7 @@
 #define MAIN_H
 
 int _putchar(char c);
+int add(int a, int b);
 int _islower(int c);
 void times_table(void);
 int print_sign(int n);
