@@ -9,3 +9,4 @@ void puts2(char *str);
 void puts_half(char *str);
 char *string_toupper(char *str);
 void rev_string(char *s);
+void print_array(int *a, int n);
