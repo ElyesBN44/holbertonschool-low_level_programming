@@ -1,5 +1,11 @@
 #include <stdlib.h>
-
+/**
+ * array_range - Creates an array of integers from min to max.
+ * @min: The minimum integer value (inclusive).
+ * @max: The maximum integer value (inclusive).
+ * Description: This function allocates memory.
+ * Return: A pointer to the newly created array of integers.
+ */
 int *array_range(int min, int max)
 {
 int size;
