@@ -45,10 +45,6 @@ return (r);
 int op_div(int a, int b)
 {
 int r;
-if (b == 0)
-{
-return (0);
-}
 r = a / b;
 return (r);
 }
@@ -61,10 +57,6 @@ return (r);
 int op_mod(int a, int b)
 {
 int r;
-if (b == 0)
-{
-return (0);
-}
 r = a % b;
 return (r);
 }
