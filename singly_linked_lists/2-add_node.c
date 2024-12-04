@@ -4,7 +4,7 @@
 
 /**
  * add_node - Adds a new node at the beginning.
- * @head: A pointer to the pointer .
+ * @head: A pointer to the pointer.
  * @str: The string to be duplicated.
  * Return: The address of the new element.
  */
